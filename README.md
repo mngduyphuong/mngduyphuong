@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a Swinburne final-year students
 - 🥅 Goals: Becoming a Full-stack developer asap
-- 📫 How to reach me: You can contact me via my Email or linkedIn
+- 📫 How to reach me: You can contact me via my personal Email
 - ⚡ Fun fact: I love playing videogames and programming
 <br />
 
