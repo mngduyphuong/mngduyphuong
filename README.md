@@ -1,6 +1,6 @@
 ### Hi there, I'm Phuong - A frontend developer 👋
 
-- 🌱 I’m currently a Swinburne final-year students
+- 🌱 I’m currently a Swinburne graduate software engineer
 - 🥅 Goals: Becoming a Full-stack developer asap
 - 📫 How to reach me: You can contact me via my personal Email
 - ⚡ Fun fact: I love playing videogames and programming
