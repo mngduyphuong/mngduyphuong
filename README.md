@@ -36,8 +36,7 @@ Check out my portfolio to see my projects and learn more about my work!
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,graphql" />
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />        
+  </a>      
 </p>
 
 - **CSS Frameworks:**
