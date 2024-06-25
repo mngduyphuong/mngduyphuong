@@ -18,6 +18,7 @@ Check out my portfolio to see my projects and learn more about my work!
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+
 - **Languages:**
   <p align="center">
   <a href="https://skillicons.dev">
