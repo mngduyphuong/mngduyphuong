@@ -1,7 +1,7 @@
 ### Hi there, I'm Phuong - A junior full-stack developer 👋
 
 - 🌱 I’m currently a Swinburne graduate software engineer
-- 📫 How to reach me: You can contact me via my personal Email
+- 📫 How to reach me: You can contact me via my Email
 
 <br />
 
@@ -41,35 +41,18 @@ Check out my portfolio to see my projects and learn more about my work!
 </p>
 
 - **CSS Frameworks:**
-  - TailwindCSS
-  - Bootstrap
-  - Ant Design
-  - Vuetify
-  - Quasar
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vuetify" />   
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
 </p>
 
 - **DevOps & Tools:**
-  - Microsoft Azure
-  - Microsoft Azure DevOps
-  - Microsoft Azure Functions
-  - Source Control
-  - Slack
-  - Docker
-  - Microsoft Teams
-  - Git
-  - Figma
+
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,git,slack,docker,figma" />
-  </a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />           
+    <img src="https://skillicons.dev/icons?i=azure,git,docker,figma" />
+  </a>          
 </p>
 
 <br />
