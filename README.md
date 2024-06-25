@@ -3,14 +3,9 @@
 - 🌱 I’m currently a Swinburne graduate software engineer
 - 📫 How to reach me: You can contact me via my Email
 
-<br />
-
 ### My Portfolio
 Check out my portfolio to see my projects and learn more about my work!
-
 🕹️ [Visit My 8-bit Themed Portfolio](https://mngduyphuong.github.io/portfolio/)
-
-<br />
 
 ### Skills
 
@@ -49,6 +44,3 @@ Check out my portfolio to see my projects and learn more about my work!
     <img src="https://skillicons.dev/icons?i=azure,git,docker,figma" />
   </a>          
 </p>
-
-<br />
-Thank you for visiting my profile! 🎉
