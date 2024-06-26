@@ -12,7 +12,7 @@ Check out my portfolio to see my projects and learn more about my work!
 - **Languages:**
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,sass,css,js,dotnet,cs,cpp,php" />
+    <img src="https://skillicons.dev/icons?i=html,sass,css,js,ts,dotnet,cs,cpp,php" />
   </a>
 </p>
 
